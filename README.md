@@ -1,0 +1,2 @@
+# CompeteciasDeportivas
+diagrama de clase
